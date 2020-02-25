@@ -1,6 +1,9 @@
-# ** Giới thiệu **
+
 <img src="https://i.ytimg.com/vi/JPED8CG8G2w/maxresdefault.jpg">
-- Project đơn giản về đăng ký, đăng nhập sử dụng spring security + jwt
+
+# ** Giới thiệu **
+Project đơn giản về đăng ký, đăng nhập sử dụng spring security + jwt
+
 # Kết nối cơ sở dữ liệu mysql
 spring.datasource.url=jdbc:mysql://localhost:3306/<tên database>?useSSL=false
 spring.datasource.username=<username>
